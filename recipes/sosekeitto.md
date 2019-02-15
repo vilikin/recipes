@@ -1,7 +1,3 @@
-# Kasvis-sosekeitto
-
-![placeholder](../images/placeholder.png)
-
 ## Ainekset
 
 - 1 bataatti
@@ -26,13 +22,3 @@ Lisukkeena toimii hyvin ainakin:
 3. Keitä kunnes ovat pehmeitä, kattila pois liedeltä
 4. Sekaan kerma, mausteet ja appelsiinimehu
 5. Mörssää
-
-## Metadata
-
-```json
-{
-  "name": "Kasvis-sosekeitto",
-  "type": "soup",
-  "imgFileName": "placeholder.png"
-}
-```
