@@ -1,3 +1,4 @@
 id,name,category_id,image_file_name,recipe_file_name
 sosekeitto,Kasvis-sosekeitto,soups,placeholder.png,sosekeitto.md
 pinaattirisotto,Pinaattikanarisotto,kana,pinaattikanarisotto.jpg,pinaattikanarisotto.md
+nyhtispizza,Nyhtispizza,vege,nyhtispizza.jpg,nyhtispizza.md
