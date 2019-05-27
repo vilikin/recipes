@@ -7,10 +7,10 @@ Taikina:
 
 Täyte:
 - 4 tomaattisose-purkkia
-- Nyhtis
+- Nyhtis (2 pakettia)
 - Reilusti mausteita: pizzamauste, mustapippuri, valkosipulimauste, suola, grillimauste, paprikamauste
 
-Pohjalle ketsuppi, päälle juustoa ja rucolaa.
+Pohjalle ketsuppi, päälle juustoa (2 pienehköä pussia) ja rucolaa.
 
 Extra:
 - Aurajuusto
@@ -21,4 +21,4 @@ Extra:
 
 ## Valmistus
 
-Tee taikina, laita täytteet päälle ja paista 225 asteessa 15 minuuttia.
+Tee taikina, laita täytteet päälle ja paista 225 asteessa 15 minuuttia. Rucola ja avokado vasta paiston jälkeen.
